@@ -13,7 +13,7 @@ Demo project integrating MES data with Machine Learning for predictive maintenan
 
 ---
 
-## คำอธิบายสั้น
+## คำอธิบาย
 โปรเจกต์ตัวอย่างการเชื่อมข้อมูล MES กับ Machine Learning เพื่อตรวจสอบและทำนายการซ่อมบำรุง โดยใช้ข้อมูลเซนเซอร์จำลองใน Wokwi
 ## คุณสมบัติ
 - **จำลองข้อมูลเซ็นเซอร์** (การสั่นสะเทือน อุณหภูมิ พลังงาน) ใน Wokwi
